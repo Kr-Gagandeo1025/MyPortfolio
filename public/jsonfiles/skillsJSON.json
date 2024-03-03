@@ -1,0 +1,28 @@
+{
+    "programming":[
+        {
+            "name":"Javascript",
+            "icon":"https://icons8.com/icon/tGvHBPJaKqEd/javascript"
+        },
+        {
+            "name":"C",
+            "icon":"https://icons8.com/icon/shQTXiDQiQVR/c-programming"
+        },
+        {
+            "name":"Python",
+            "icon":"https://icons8.com/icon/Rc0Xn5AtE8kX/python"
+        },
+        {
+            "name":"Java",
+            "icon":"https://icons8.com/icon/GPfHz0SM85FX/java"
+        },
+        {
+            "name":"Motoko",
+            "icon":"https://icons8.com/icon/wSEBhXJoeGMK/internet-computer"
+        },
+        {
+            "name":"SQL",
+            "icon":"https://icons8.com/icon/13406/sql"
+        }
+    ]
+}
