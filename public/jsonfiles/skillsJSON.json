@@ -2,27 +2,86 @@
     "programming":[
         {
             "name":"Javascript",
-            "icon":"https://icons8.com/icon/tGvHBPJaKqEd/javascript"
+            "icon":"https://img.icons8.com/color/48/javascript--v2.png"
         },
         {
             "name":"C",
-            "icon":"https://icons8.com/icon/shQTXiDQiQVR/c-programming"
+            "icon":"https://img.icons8.com/fluency/48/c-programming.png"
         },
         {
             "name":"Python",
-            "icon":"https://icons8.com/icon/Rc0Xn5AtE8kX/python"
+            "icon":"https://img.icons8.com/color/48/python--v2.png"
         },
         {
             "name":"Java",
-            "icon":"https://icons8.com/icon/GPfHz0SM85FX/java"
+            "icon":"https://img.icons8.com/color/48/java-coffee-cup-logo--v2.png"
         },
         {
             "name":"Motoko",
-            "icon":"https://icons8.com/icon/wSEBhXJoeGMK/internet-computer"
+            "icon":"https://img.icons8.com/external-black-fill-lafs/64/000000/external-Internet-Computer-cryptocurrency-black-fill-lafs.png"
         },
         {
             "name":"SQL",
-            "icon":"https://icons8.com/icon/13406/sql"
+            "icon":"https://img.icons8.com/color/48/sql.png"
         }
+    ],
+    "technical":[
+        {
+            "name":"HTML",
+            "icon":"https://img.icons8.com/color/48/html-5--v1.png"
+        },
+        {
+            "name":"CSS",
+            "icon":"https://img.icons8.com/color/48/css3.png"
+        },
+        {
+            "name":"Node.js",
+            "icon":"https://img.icons8.com/color/48/nodejs.png"
+        },
+        {
+            "name":"Express.js",
+            "icon":"https://img.icons8.com/ios/50/express-js.png"
+        },
+        {
+            "name":"React.js",
+            "icon":"https://img.icons8.com/officel/40/react.png"
+        },
+        {
+            "name":"Next.js",
+            "icon":"https://img.icons8.com/ios-filled/50/js.png"
+        },
+        {
+            "name":"REST APIs",
+            "icon":"https://img.icons8.com/ios-filled/50/api-settings.png"
+        },
+        {
+            "name":"Middleware",
+            "icon":"https://img.icons8.com/ios-filled/50/circled-m.png"
+        },
+        {
+            "name":"PostgreSQL",
+            "icon":"https://img.icons8.com/color/48/postgreesql.png"
+        },
+        {
+            "name":"MongoDB",
+            "icon":"https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"
+        },
+        {
+            "name":"Blockchain",
+            "icon":"https://img.icons8.com/wired/64/blockchain.png"
+        },
+        {
+            "name":"Git",
+            "icon":"https://img.icons8.com/color/48/git.png"
+        },
+        {
+            "name":"GitHub",
+            "icon":"https://img.icons8.com/fluency/48/github.png"
+        },
+        {
+            "name":"WebRTC",
+            "icon":"https://img.icons8.com/fluency/48/chat--v1.png"
+        }
+        
     ]
 }
