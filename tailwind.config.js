@@ -12,6 +12,9 @@ module.exports = {
     extend: {
       backgroundImage: {
         'card-img': "url('/2.jpg')",
+      },
+      animation:{
+        'bounce-once':'bounce 1s linear',
       }
     },
   },

@@ -97,6 +97,8 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+  background-image: url("../../public/main_bg.jpg");
+  background-size: cover;
 }
 
 a {

@@ -16,7 +16,7 @@ const AnimatedCursor = () => {
         })
     })
   return (
-    <motion.div className={`hidden lg:h-[200px] lg:w-[200px] lg:bg-transparent lg:rounded-full lg:fixed lg:opacity-[0.7] z-50 lg:flex backdrop-blur-3xl items-center justify-center`} animate={{x:mousePos.x-100, y:mousePos.y-100}} transition={{type:"spring"}}><h1 className="text-2xl">+</h1></motion.div>
+    <motion.div className={`hidden lg:h-[40px] lg:w-[40px] lg:bg-red-500 lg:rounded-full lg:fixed lg:opacity-[0.7] z-30 lg:flex backdrop-blur-3xl items-center justify-center`} animate={{x:mousePos.x-20, y:mousePos.y-20}} transition={{type:"spring"}}><h1 className="text-2xl">+</h1></motion.div>
   )
 }
 

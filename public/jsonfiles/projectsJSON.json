@@ -3,35 +3,35 @@
         {
             "name":"MeowScript",
             "desc":"I am a certified cat lover. So with all my love for meow meow I made this Programming language using Moo.js and Javascript Lexer",
-            "img":"",
+            "img":"https://raw.githubusercontent.com/Kr-Gagandeo1025/MeowScript/master/WhatsApp%20Image%202024-03-20%20at%2011.47.24%20PM.jpeg",
             "wesite":null,
-            "github":""
+            "github":"https://github.com/Kr-Gagandeo1025/MeowScript"
         },
         {
             "name":"Silent Speak",
             "desc":"This project was made by me and team to help hearing impaired people who use sign language to communicate with a person not knowing sign laguage using AI and ML",
-            "img":"",
+            "img":"https://raw.githubusercontent.com/Kr-Gagandeo1025/SilentSpeakFrontend/master/Screenshot%20from%202024-03-11%2000-08-20.png",
             "website":"https://silent-speak.netlify.app/",
             "github":"https://github.com/Kr-Gagandeo1025/SilentSpeakFrontend"
         },
         {
             "name":"Great Prompts",
             "desc":"A Next.js Beauty where you can login using NEXT-AUTH-2.0 and post your Greatly Engineered AI prompts to help fellow users of Great Prompts.",
-            "img":"",
+            "img":"https://raw.githubusercontent.com/Kr-Gagandeo1025/project_great_prompts/master/image.png",
             "website":"https://project-great-prompts.vercel.app/",
             "github":"https://github.com/Kr-Gagandeo1025/project_great_prompts"
         },
         {
             "name":"BookEReview",
             "desc":"An online platform where you can login and post reviews of books you have read, to help others get a review of the great books you have been into.",
-            "img":"",
+            "img":"https://raw.githubusercontent.com/Kr-Gagandeo1025/BookEReview/master/image.png",
             "website":"https://lovely-puce-threads.cyclic.app/",
             "github":"https://github.com/Kr-Gagandeo1025/BookEReview"
         },
         {
             "name":"Likho.com",
             "desc":"An online basic text Editor that can perform all basic text editing tasks ;) ps - my first ever hosted react app.",
-            "img":"",
+            "img":"https://raw.githubusercontent.com/Kr-Gagandeo1025/Likho.com/main/image.png",
             "website":"https://kr-gagandeo1025.github.io/Likho.com/",
             "github":"https://github.com/Kr-Gagandeo1025/Likho.com"
         }
