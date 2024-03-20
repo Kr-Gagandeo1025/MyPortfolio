@@ -28,7 +28,7 @@ const Hero = () => {
           <h1 className="w-full mt-1 text-l mb-4 lg:text-2xl text-right">WEB DEV | FULLSTACK | WEB 3.0</h1>
           <div className="flex flex-col p-2 gap-10 justify-end items-center lg:flex-row h-full lg:w-2/3">
               <Image src={"/profile-pic.jpg"} height={500} width={500} className="rounded-2xl h-54 w-48 lg:h-[650px] lg:w-[650px]" alt='profile-pic'/>
-              <motion.p className="text-lg lg:text-4xl" transition={{delay:0.5,type:"spring"}} initial={{x:100,opacity:0}} whileInView={{x:0,opacity:1}} viewport={{root:scorllRef}}>
+              <motion.p className="text-md lg:text-4xl" transition={{delay:0.5,type:"spring"}} initial={{x:100,opacity:0}} whileInView={{x:0,opacity:1}} viewport={{root:scorllRef}}>
               👋I am Kumar Gagandeo, an undergraduate student at KIIT University, Bhubaneswar, originally from Ranchi, Jharkhand. My fervor lies in web development, blockchain technology, and cybersecurity. Actively engaging in hackathons, I continuously enhance my skills and knowledge in these domains with the aim of making a substantial impact in the software industry. I am currently seeking opportunities to collaborate on projects that align with my expertise and am open to exploring diverse ventures in my field.
               </motion.p>
           </div>
