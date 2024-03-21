@@ -15,7 +15,7 @@ export default function Home() {
       <Skills/>
       <Projects/>
       <Contact/>
-      <h1>
+      <h1 className="text-sm p-2">
         all copyrights reserveed by kr_gagandeo© icons by icons8.
       </h1>
     </main>
